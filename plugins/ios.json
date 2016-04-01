@@ -9,10 +9,6 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.example.notifymev1"
-        },
-        "phonegap-plugin-push": {
-            "SENDER_ID": "342058754933",
-            "PACKAGE_NAME": "com.example.notifymev1"
         }
     },
     "dependent_plugins": {}

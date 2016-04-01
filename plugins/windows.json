@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "NotifyWorld"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "342058754933",
+            "PACKAGE_NAME": "NotifyWorld"
+        }
+    },
+    "dependent_plugins": {}
+}
